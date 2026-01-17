@@ -1,3 +1,5 @@
+## Vedant Patil
+
 # 💫 About Me:
 I am currently working at Evergreen Nephrology as a Data Scientist.<br>I have a Master's in Information Systems from Syracuse University.<br>I have around 3 years of experience as a Data Analyst/Scientist.<br>I am open to collaborative opportunities, whether it's exploring innovative data solutions, contributing to transformative projects, or mentoring the next generation of data enthusiasts.<br>I am a self-starter with strong interpersonal skills, a quick learner, and a creative problem-solver. <br>I believe in character, values, vision, and action, and seek new challenges and opportunities to grow and contribute.
 
