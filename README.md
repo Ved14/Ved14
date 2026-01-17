@@ -1,5 +1,9 @@
+<h1 align="center">
+  Vedant Patil
+</h1>
 <h2 align="center">
-  Vedant Patil | Data Scientist @ Evergreen Nephrology | MS in Information Systems
+  Data Scientist @ <a href="https://www.egneph.com" target="_blank"> Evergreen Nephrology</a> |
+  MS in <a href="https://ischool.syracuse.edu/academics/information-systems-masters-degree/" target="_blank"> Information Systems</a>
 </h2>
 
 <p align="center">
